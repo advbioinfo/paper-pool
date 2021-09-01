@@ -1,9 +1,9 @@
 ---
 File: README.md
-Project: hbk
+Lecture: Advanced Bioinformatics 1
 Professor: Martin Steinegger (martin.steinegger@snu.ac.kr)
 TA: Hyunbin Kim (khb7840@snu.ac.kr)
-Last Modified: 2021-09-01 11:51:59
+Last Modified: 2021-09-01 13:14:16
 ---
 
 # Advanced Bioinformatics 1
@@ -11,7 +11,7 @@ Last Modified: 2021-09-01 11:51:59
 
 ## Annotation
 1. Prokka [paper](https://academic.oup.com/bioinformatics/article/30/14/2068/2390517), [github](https://github.com/tseemann/prokka)
-2. Augustus [](https://academic.oup.com/bioinformatics/article/27/6/757/234821), [github](https://github.com/Gaius-Augustus/Augustus)
+2. Augustus [paper](https://academic.oup.com/bioinformatics/article/27/6/757/234821), [github](https://github.com/Gaius-Augustus/Augustus)
 3. Maker [paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-491), [homepage](https://www.yandell-lab.org/software/maker.html)
 4. Prodigal [paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-119), [github](https://github.com/hyattpd/Prodigal)
 
