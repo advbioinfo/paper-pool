@@ -35,7 +35,7 @@ Last Modified: 2021-09-01 13:14:16
 3. salmon [paper](https://www.nature.com/articles/nmeth.4197), [github](https://github.com/COMBINE-lab/salmon), [homepage](https://combine-lab.github.io/salmon/)
 
 ## Metagenomics
-1. metaphlan2 [paper](https://www.nature.com/articles/nmeth.2066), [github](https://github.com/biobakery/MetaPhlAn2), [homepage](https://huttenhower.sph.harvard.edu/metaphlan2/)
+1. metaphlan2 [metaphlan1_paper](https://www.nature.com/articles/nmeth.2066), [metaphlan2_paper](https://www.nature.com/articles/nmeth.3589), [github](https://github.com/biobakery/MetaPhlAn2), [homepage](https://huttenhower.sph.harvard.edu/metaphlan2/)
 2. kraken-uniq [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1568-0), [github](https://github.com/fbreitwieser/krakenuniq)
 3. kraken2 [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1891-0), [github](https://github.com/DerrickWood/kraken2)
 4. HUMAnN2 [paper](https://www.nature.com/articles/s41592-018-0176-y), [github](https://github.com/biobakery/humann), [homepage](https://huttenhower.sph.harvard.edu/humann2/)
